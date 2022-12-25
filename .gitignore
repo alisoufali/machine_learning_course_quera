@@ -130,3 +130,7 @@ dmypy.json
 
 # Environment files
 qenv
+
+# Project files
+**/*.npz
+**/*.zip
